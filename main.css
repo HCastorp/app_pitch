@@ -14,3 +14,17 @@
 {
     text-align: center;
 }
+.action
+{
+    background-color: #343434;
+}
+.heading
+{
+    font-family: Helvetica;
+    font-size: 46px;
+}
+.subheading
+{
+    font-family: Helvetica;
+    font-size: 24px;
+}
