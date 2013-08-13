@@ -1,0 +1,44 @@
+* App Name Ideas
+** Audition
+   Nice sound but doesn't really capture what the app does, 
+   or worse, may be misleading.
+** Staffly
+   Awfully trendy.
+** Words or Ideas it would be nce to include
+*** Staff
+*** Read
+*** Pitch
+*** Music
+*** Notes
+*** Piano 
+   careful with that one as it may be somewhat limiting
+* One sentence summary
+** The easiest way to learn to read music
+** Learning to read music has never been easier
+** The app that listens
+
+* Jumbotron panels (if you do this)
+** Practice reading the best way - on your instrument
+   {app name} lets you
+** No idea how to read music? 
+   Don't worry - {app name} can teach you
+** Instant Feedback
+   No more flipping over flashcards - find out whether you've played 
+   the correct note instantly!
+** The only app
+
+* Longer copy
+** #1
+   Learning to read music is one of the first and most important tasks
+   any music student must master.  Just learning one piece after another
+   is rarely enough - most students need more practice.
+
+
+* General ideas
+** What is #1?
+   Biggest selling point should be ability to accept microphone input
+** Who is the target?
+   Avoid talking about things only a teacher or other experienced person
+   could appreciate
+
+ 
